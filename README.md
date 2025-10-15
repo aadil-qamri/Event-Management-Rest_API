@@ -10,8 +10,7 @@ It supports creating events, registering users, canceling registrations, and ret
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/aadil-qamri/Event-Management-Rest_API.git
 ```
 
 ### 2️⃣ Install Dependencies
